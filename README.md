@@ -1,1 +1,1 @@
-# Sales-Analysis-and-Strategic-Planning-using-SQL-
+# Sales-Analysis-and-Strategic-Planning-using-SQL
